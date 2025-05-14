@@ -5,9 +5,11 @@
 
 - 🌱 Actualmente estoy aprendiendo **Python**
 
+- 👯 Tengo proyectos desarollados como **Munisoft(Planilla, Asistencia, Admin de Agua Potable, Reparto Vaso de Leche, Inventario), Okidoki(Ventas Online)**
+
 - 💬 Conozco **PHP, Laravel, Sql Server, MySql**
 
-- 📫 Contáctame **jeanomar13@gmail.com**
+- 📫 contáctame **jeanomar13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
